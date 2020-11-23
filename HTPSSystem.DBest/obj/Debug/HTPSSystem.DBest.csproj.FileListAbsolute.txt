@@ -1,0 +1,12 @@
+D:\SchoolGitHub\DBest_Project\HTPSSystem.DBest\obj\Debug\HTPSSystem.DBest.csprojAssemblyReference.cache
+D:\SchoolGitHub\DBest_Project\HTPSSystem.DBest\obj\Debug\HTPSSystem.DBest.csproj.CoreCompileInputs.cache
+D:\SchoolGitHub\DBest_Project\HTPSSystem.DBest\bin\Debug\HTPSSystem.DBest.dll.config
+D:\SchoolGitHub\DBest_Project\HTPSSystem.DBest\bin\Debug\HTPSSystem.DBest.dll
+D:\SchoolGitHub\DBest_Project\HTPSSystem.DBest\bin\Debug\HTPSSystem.DBest.pdb
+D:\SchoolGitHub\DBest_Project\HTPSSystem.DBest\bin\Debug\EntityFramework.dll
+D:\SchoolGitHub\DBest_Project\HTPSSystem.DBest\bin\Debug\EntityFramework.SqlServer.dll
+D:\SchoolGitHub\DBest_Project\HTPSSystem.DBest\bin\Debug\EntityFramework.xml
+D:\SchoolGitHub\DBest_Project\HTPSSystem.DBest\bin\Debug\EntityFramework.SqlServer.xml
+D:\SchoolGitHub\DBest_Project\HTPSSystem.DBest\obj\Debug\HTPSSystem.DBest.csproj.CopyComplete
+D:\SchoolGitHub\DBest_Project\HTPSSystem.DBest\obj\Debug\HTPSSystem.DBest.dll
+D:\SchoolGitHub\DBest_Project\HTPSSystem.DBest\obj\Debug\HTPSSystem.DBest.pdb

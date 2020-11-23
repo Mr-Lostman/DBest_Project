@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBest_Project", "DBest_Project\DBest_Project.csproj", "{375C59A6-91BA-4D3E-B65B-1C91916861CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTPSSystem.DBest", "HTPSSystem.DBest\HTPSSystem.DBest.csproj", "{07CFA691-91CD-4D6E-A876-FE1AAC3A60EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375C59A6-91BA-4D3E-B65B-1C91916861CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375C59A6-91BA-4D3E-B65B-1C91916861CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375C59A6-91BA-4D3E-B65B-1C91916861CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375C59A6-91BA-4D3E-B65B-1C91916861CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CFA691-91CD-4D6E-A876-FE1AAC3A60EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CFA691-91CD-4D6E-A876-FE1AAC3A60EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CFA691-91CD-4D6E-A876-FE1AAC3A60EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CFA691-91CD-4D6E-A876-FE1AAC3A60EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76985B76-6730-4592-BC53-EA414522192E}
+	EndGlobalSection
+EndGlobal
